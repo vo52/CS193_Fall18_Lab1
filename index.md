@@ -1,3 +1,9 @@
+# Tran Vo's First CS193 Homework
+- Favourite things about CS193:
+- Adorable teachers
+- I love Twilight so I love this class's schedule so much
+- Can eat dinner right after finishing class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
